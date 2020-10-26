@@ -13,8 +13,9 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Tariq Azmat
   bio: >- # tell to the world
-    Cloud-enthusiast, loves linux and vim, Typescript and python
-    AWS-Solutions Architect Associate Certified.
+    Cloud-enthusiast, loves Linux, Vim, and Typescript.
+
+    AWS Solutions Architect Associate Certified.
 
   username: kapooky # general username
   github: kapooky101 # github username
@@ -34,6 +35,8 @@ fb_appid:
 collections:
   posts:
     output: true
+
+livereload: true
 
 # Markdown settings
 markdown: kramdown
