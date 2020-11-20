@@ -5,17 +5,13 @@ layout: page
 excerpt: Hello world
 comments: false
 ---
-
-
- *Some people netflix and chill, others play video games, some like to read. And then there are people like me who enjoy writing about cutting edge technology as a way to chill out.*
-
 Short version: 
 
 I'm just a random univeristy dropout who occasionly blogs.. 
 
 Long version: 
 
-I started my programming journey back in 2015 as a freshman in Computer Science. I absolutely hated it. I vowed that I would never become a programmer. Luckily, that didn't last long as I slowly developed an interest in the craft outside of school hours.
+The year was 2015 when I started my programming journey  as a freshman in Computer Science. I absolutely hated it. I vowed that I would never become a programmer. Luckily, that didn't last long as I slowly developed an interest in the craft outside of school hours.
  
  However, I was still struggling with the vast majority of my computer science courses, namely because I perceived them to be boring, and sometimes not applicable to the real world. Inversely, The few courses that I did enjoy were the ones in which I was very successful at, namely OOP and Operating systems ( I wish I could also include Databases, but the Prof was terrible and I was too distracted with videogames to really dive deep into this fascinating subject). 
 
