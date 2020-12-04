@@ -14,10 +14,8 @@ Upon firing up Jenkins from inside a docker container, being greeted with the ic
 
 - When I discovered I had to write in Groovy to write Jenkins scripts, I immediately barfed(figuratively). Java was my favorite progamming language at one point, but I realized it's verbosity, and to be perfectly honest, I'm not interested in learning it's derivative just to write ci script.  Rather than using Groovy, they should have met developers where they were at, which is in Typescript/Python land. 
 
-I decided to ditch Jenkins halfway into the tutorial that I was following.Perhaps I didn't dive deep enough to find Jenkin's charm, but it's not neccesary in 2020. In today's day and age, modern ci tools like Gitlab-CI , CircleCI to name a few are the future of CI. 
+I decided to ditch Jenkins halfway into the tutorial that I was following.Perhaps I didn't dive deep enough to find Jenkin's charm, but it's not neccesary in 2020. In today's day and age, modern ci tools like Gitlab-CI , CircleCI to name a few are the future of CI. They are easier, more stable, and integrate much better with modern microservice and cloud native tech stacks. It makes no sense to learn Jenkins when these tools exist.  
  
-
-
 
 
 
