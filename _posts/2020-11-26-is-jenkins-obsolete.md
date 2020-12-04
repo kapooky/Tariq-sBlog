@@ -8,7 +8,7 @@ If you know anything about me, you know that I prefer staying inside the confine
 
 Upon firing up Jenkins from inside a docker container, being greeted with the iconic jenkins dashboard, I commenced my dive into Jenkins. Here are my findings: 
 
-- Jenkins doesn't come out of the box with basic plugins like Git, Docker integration. Things I previously took for granted now had to be manually installed. Annoying. 
+- he Jenkins doesn't come out of the box with basic plugins like Git, Docker integration. Things I previously took for granted now had to be manually installed. Annoying. 
 
 - The user Interface is outdated and clunky. It's not beginner friendly either. 
 
