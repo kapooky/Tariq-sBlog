@@ -9,7 +9,7 @@ I haven’t been blogging as much lately. Oops.
 
 ### Resume Procastination 
  
- I really need to update my resume. It’s been outdated for atleast 4 years now as I never did land a tech job during that time. I do wish I could just link my blog rather than updating my resume. My blog gives me a holistic and complete picture of who I am, and it’s more interesting to read(well, atleast to me 😅 ). Unfortunately, my resume doesn’t offer anything tangible: I lack any work experience so I can’t write about my accomplishments. I do however, have some projects under my arsenal that I could showcase. 
+ I really need to update my resume. It’s been outdated for atleast 4 years now as I never did land a tech job during that time. I do wish I could just link my blog rather than updating my resume. My blog gives a holistic and complete picture of who I am, and it’s more interesting to read(well, atleast to me 😅 ). Unfortunately, my resume doesn’t offer anything tangible: I lack any work experience so I can’t write about that. I do however, have some projects under my arsenal that I could showcase. 
 
 
 ### Apartment Project 
