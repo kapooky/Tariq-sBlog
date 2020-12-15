@@ -79,6 +79,8 @@ To drive the point home, check this [demo](https://regex101.com/r/KwngR1/4) out.
  
  You can find the repository here 
   https://github.com/kapooky/linkedin-scraper-script
+  Thank you Spinlud for building this tool https://github.com/spinlud/py-linkedin-jobs-scraper
+  He deserves all the credit. 
  
 
 
