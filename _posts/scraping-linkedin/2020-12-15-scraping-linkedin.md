@@ -3,17 +3,10 @@ layout: post
 title: Scraping 10,000 Linkin-job postings using linkedin-jobs-scraper 
 date: 2020-12-15 05:06 +0700
 ---
- I've been job hunting and I'm having a tough time. It's so bad that I only managed to apply for 2 jobs in the entire month. 
-  
-  For starters, the jobs that I'm interested are very scare. This may sound suprising to many. *Aren't Cloud jobs all the rage nowadays?* Yes they are but only for experienced cloud professionals or anyone with a moderate amount of experience in the industry. Otherwise, no they aren't in demand.  
-  
- Second, I hate the emotional roller-coaster involved in scanning job postings. Picture this: You find the perfect job posting only to realize that that the final paragraph states they want want somone X amount of years of experience. Discouraging, right?  And mind you, this process ends up happening more than the  happy parts. 
- 
- And finally, I'm just a lazy guy. I don't want to spend my time job hunting, I'd rather spend that time working on other projects like this one. 
- 
- And so began my journey automating the job hunt.
 
-Thankfully, I didn't have to write the scraper from scratch. The kind people on github already invented the wheel for me. By using their open-source scraper, I could easily scrape thousands of job-listings from the comfort of my terminal. The scraper also came with built-in search filters shown below: 
+Job hunting is always a pain. Spending hours upon hours sifting through countless companies's tech stack hoping that it matches your own skill set can be quite cumbersome. Hence why I decided to write a script that find jobs for me! But first, I needed to write a scraper. 
+
+Thankfully, I didn't have to write the scraper. The kind people on github already invented the wheel for me. By using their open-source scraper, I could easily scrape thousands of job-listings from the comfort of my terminal. The scraper also came with built-in search filters shown below: 
 
 ```py
     Query(

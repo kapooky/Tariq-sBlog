@@ -8,11 +8,11 @@ comments: false
 
 Short version: 
 
-I'm a university dropout who sometimes blogs.
+My name is Tariq, based in Ottawa,Canada  and I'm a cloud enthusiast. Before that, I was a Linux fan(and still am). 
 
-Long version: 
+Curious to know my story? You can read it below: 
 
-The year was 2015 when I first encountered programming as a freshmen in CS. Very much rated it, vowed that I would never do anything computer-science related. Fast forward a couple of years and I've discovered Github, FOSS, Linux, and the most important of all, an interest in programming/scripting. 
+The year was 2015 when I first encountered programming as a freshmen in CS. I very much rated it, vowed that I would never do anything computer-science related. Fast forward a couple of years and I've discovered Github, FOSS, Linux, and the most important of all, an interest in programming/scripting. 
 
 In early 2019, while still in school, I discovered cloud computing and the challenges that companies are facing in hiring for scare cloud talent. Bleeding edge Technologies like Ansible,Kubernetes,Terraform Docker, and AWS services is what the industry was shifting towards and yet, here I was in university, studying boring functional programming in a dead language(Haskell). During this time, my grades hit a record low and I was subsequently barred out of my degree program(Computer Science) until I could pad them back up by taking easy elective courses. At this point, I decided to take a break from University and see if I could land a cloud job without a degree. 
 
