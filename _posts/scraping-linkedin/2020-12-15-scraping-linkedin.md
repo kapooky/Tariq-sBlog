@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Scraping 10,000 Linkin-job postings using linkedin-jobs-scraper 
+title: Scraping 24,000 Linkedin Job Ads 
 date: 2020-12-15 05:06 +0700
 ---
 
 Job hunting is always a pain. Spending hours upon hours sifting through countless companies's tech stack hoping that it matches your own skill set can be quite cumbersome. Hence why I decided to write a script that find jobs for me! But first, I needed to write a scraper. 
 
-Thankfully, I didn't have to write the scraper. The kind people on github already invented the wheel for me. By using their open-source scraper, I could easily scrape thousands of job-listings from the comfort of my terminal. The scraper also came with built-in search filters shown below: 
+A scraper is a program that "scrapes" information on webpages. Thankfully, I didn't have to write the scraper. The kind people on github already invented the wheel for me. By using their open-source scraper, I could easily scrape thousands of job-listings from the comfort of my terminal. The scraper also came with built-in search filters shown below: 
 
 ```py
     Query(

@@ -5,27 +5,19 @@ layout: page
 excerpt: Hello world
 comments: false
 ---
-Here is a short list of some projects I've done. Please note that I didn't bother to add my university assignments, they are all scattered in my [github repo](https://github.com/kapooky?tab=repositories)
+Here is a short list of some projects I have done. Please note that I ommited some projects and university assignments for brevity. Check my [github](https://github.com/kapooky?tab=repositories) for the full scoop. 
 
-I have done some advanced solution architect kind of [demos](https://github.com/acantril/learn-cantrill-io-labs) . I love working on these demos but they probably won't get me a job. Employers who are looking for these kind of skills always assume that you need 7+ on the job experience. Annoying. 
-
-Here are my own projects: 
-
-### [League and Tournement Manager Application](https://github.com/kapooky/MultiPlayer-ELO-GUI-Ranking-System)
-Tech Used: Java, Heavy emphasis on object orientated programming, 
- My first project! Made in 2016? It's not really relevant if you're just looking for my cloud skills. 
- 
- On the project front, It's not good. I didn't do any unit/integration testing, code is bad, and the code is self documenting (meaning it's also bad) 
- 
-### Azma.io version 1 
+### Websocket Game App Migration to the Cloud 
  ***I got my feet wet in AWS with this project!***
  
  Tech used: Javascript, Nodejs, Webpack, Dealing with Binary readers/writers, Heavy emphasis on websocket technology, client-server architecture, Typescript. NGINX reverse proxies, Let's encrypt, Docker.
+ 
  AWS services: Cloud front, S3, EC2, Code pipeline, Route 53 
  
-*Code is based upon the work of others, namely [this](https://github.com/Luka967/Cigar) and [this](https://github.com/Luka967/Cigar). I did however modify parts of the code to augment/enhance it.* 
+*Original Code is based upon the work of others, namely [this](https://github.com/Luka967/Cigar) and [this](https://github.com/Luka967/Cigar). I did however modify parts of the code to augment/enhance it migrated it to a cloud enviorment. .* 
+##### Background context
 
-Azma.io was supposed to be a clone of Agar.io, a smash hit browser based game, but I lost interest in the project. I decided to revive this project by migrating it to a cloud enviorment. Afterall, I had the option to migrate some sample generic static wordpress site to the cloud or my dead project. I chose my dead project. 
+Azma.io was supposed to be a clone of Agar.io, a smash hit browser based game, but I lost interest in the project. I decided to revive this project by migrating it into a cloud enviorment for learning purposes.  
 
 There are 2 parts to this project: The static content and the stateful central gameserver. The static content is hosted in an S3 bucket, and uses Cloudfront as it's CDN network. The central game server runs inside a Docker container within an EC2 instance. 
 
